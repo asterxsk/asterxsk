@@ -10,8 +10,5 @@
   <img src="https://streak-stats.demolab.com/?user=asterxsk&theme=github_dark&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=asterxsk&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=asterxsk&theme=github_dark&radius=10" alt="asterxsk's Activity Graph" />
 </p>
