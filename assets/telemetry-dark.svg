@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="120" viewBox="0 0 880 120" role="img" aria-labelledby="tm-dark-title tm-dark-desc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<title id="tm-dark-title">asterxsk live telemetry</title>
+<desc id="tm-dark-desc">524 contributions / yr, 855 downloads / 30d, 2 npm packages, 11 public repos</desc>
+<rect x="0" y="0" width="880" height="120" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="879" height="119" fill="none" stroke="#30363d" stroke-width="1" shape-rendering="crispEdges"/>
+<rect x="36" y="20" width="7" height="7" fill="#ff6b1a">
+<animate attributeName="opacity" values="1;0" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/>
+</rect>
+<text x="51" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.6" fill="#7d8590">TELEMETRY</text>
+<text x="844" y="27" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.2" fill="#7d8590">GENERATED DAILY &#183; SELF-OWNED</text>
+<rect x="36" y="38" width="808" height="1" fill="#21262d" shape-rendering="crispEdges"/>
+<rect x="238.00" y="54" width="1" height="50" fill="#21262d" shape-rendering="crispEdges"/>
+<rect x="440.00" y="54" width="1" height="50" fill="#21262d" shape-rendering="crispEdges"/>
+<rect x="642.00" y="54" width="1" height="50" fill="#21262d" shape-rendering="crispEdges"/>
+<text x="137.00" y="68" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#7d8590">CONTRIBUTIONS / YR</text><text x="137.00" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="700" fill="#e6edf3">524</text><rect x="80.44" y="106" height="2" width="0" fill="#ff6b1a"><animate attributeName="width" from="0" to="113.12" begin="0.12s" dur="0.5s" fill="freeze"/></rect>
+<text x="339.00" y="68" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#7d8590">DOWNLOADS / 30D</text><text x="339.00" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="700" fill="#e6edf3">855</text><rect x="282.44" y="106" height="2" width="0" fill="#ff6b1a"><animate attributeName="width" from="0" to="113.12" begin="0.21s" dur="0.5s" fill="freeze"/></rect>
+<text x="541.00" y="68" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#7d8590">NPM PACKAGES</text><text x="541.00" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="700" fill="#e6edf3">2</text><rect x="484.44" y="106" height="2" width="0" fill="#ff6b1a"><animate attributeName="width" from="0" to="113.12" begin="0.30s" dur="0.5s" fill="freeze"/></rect>
+<text x="743.00" y="68" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" fill="#7d8590">PUBLIC REPOS</text><text x="743.00" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="700" fill="#e6edf3">11</text><rect x="686.44" y="106" height="2" width="0" fill="#ff6b1a"><animate attributeName="width" from="0" to="113.12" begin="0.39s" dur="0.5s" fill="freeze"/></rect>
+</svg>
