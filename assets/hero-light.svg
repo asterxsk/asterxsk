@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- hero-light.svg | asterxsk | squared specimen plate | GitHub light canvas #ffffff -->
+<!-- hero-light.svg | asterxsk | squared specimen plate | transparent, no background fill -->
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="216" viewBox="0 0 880 216" role="img" aria-labelledby="hl-title hl-desc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
   <title id="hl-title">asterxsk</title>
   <desc id="hl-desc">asterxsk. Computer Engineering student in Mumbai. Cooking up agent tooling, CLIs and terminal interfaces. Featured projects: kiln in TypeScript, CampusNodes in React, and contributing to UdyogSaarthi.</desc>
 
-  <!-- section: canvas -->
-  <rect x="0" y="0" width="880" height="216" fill="#ffffff"/>
+  <!-- section: frame | no background fill, the host page supplies it -->
   <rect x="0.5" y="0.5" width="879" height="215" fill="none" stroke="#d0d7de" stroke-width="1" shape-rendering="crispEdges"/>
 
   <!-- section: top rail -->

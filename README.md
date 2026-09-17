@@ -14,16 +14,9 @@ Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and termi
 </samp></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/telemetry-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/telemetry-light.svg?v=1">
-    <img alt="Live telemetry: contributions this year, public repos, npm packages and monthly downloads" src="./assets/telemetry-light.svg?v=1" width="100%">
-  </picture>
+  <a href="https://www.npmjs.com/package/@asterxsk/kiln"><img src="https://img.shields.io/npm/dm/@asterxsk/kiln?style=for-the-badge&label=kiln&color=ff6b1a" alt="kiln monthly npm downloads" height="28"></a>
+  <a href="https://www.npmjs.com/package/@asterxsk/croctui"><img src="https://img.shields.io/npm/dm/@asterxsk/croctui?style=for-the-badge&label=croctui&color=ff6b1a" alt="croctui monthly npm downloads" height="28"></a>
 </p>
-
-<p align="center"><sub>
-regenerated daily from the GitHub and npm APIs by <a href="./.github/workflows/metrics.yml">this workflow</a>
-</sub></p>
 
 ---
 
@@ -98,11 +91,11 @@ Six projects that run. Five are mine; the third I contribute to.
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| **[kiln](https://github.com/asterxsk/kiln)** | Versioned config and installer for the `pi` agent, shipped as a CLI. 268 files of extensions and opinionated defaults. | TypeScript &middot; Node 22 &middot; npm |
+| **[kiln](https://github.com/asterxsk/kiln)** | Versioned config and installer for the `pi` agent, shipped as a CLI. Extensions and opinionated defaults. | TypeScript &middot; Node 22 &middot; npm |
 | **[CampusNodes](https://github.com/asterxsk/CampusNodes)** | Campus resource platform. Live: [cnodes.vercel.app](https://cnodes.vercel.app) | React 19 &middot; Vite &middot; react-three-fiber &middot; GSAP &middot; Supabase |
-| **[UdyogSaarthi](https://github.com/andy1924/UdyogSaarthi)** <br><sub>contributor, not maintainer</sub> | Multilingual, accessibility-first platform that helps rural micro-entrepreneurs assess business feasibility and generate reviewable project reports. I built out the development infrastructure &mdash; Docker Compose dev stack, CI audit job, cross-platform dev scripts. 31 commits ([see them](https://github.com/andy1924/UdyogSaarthi/commits?author=asterxsk)). | TypeScript &middot; Python &middot; Docker |
+| **[UdyogSaarthi](https://github.com/andy1924/UdyogSaarthi)** <br><sub>contributor, not maintainer</sub> | Multilingual, accessibility-first platform that helps rural micro-entrepreneurs assess business feasibility and generate reviewable project reports. I built out the development infrastructure &mdash; Docker Compose dev stack, CI audit job, cross-platform dev scripts. [My commits](https://github.com/andy1924/UdyogSaarthi/commits?author=asterxsk). | TypeScript &middot; Python &middot; Docker |
 | **[tordln](https://github.com/asterxsk/tordln)** | Terminal torrent client. Three-pane TUI, pre-download file selection, live piece map. Needed APIs `librqbit` didn't expose, so I vendored and patched it. | Rust &middot; ratatui &middot; crossterm &middot; tokio |
-| **[croctui](https://github.com/asterxsk/croctui)** | Keyboard-driven TUI over `croc`. Prebuilt binaries for six platforms behind a 2.8&nbsp;kB npm shim, so users need no Go toolchain. | Go 1.26 &middot; Bubble Tea &middot; lipgloss |
+| **[croctui](https://github.com/asterxsk/croctui)** | Keyboard-driven TUI over `croc`. Prebuilt binaries for six platforms behind an npm shim, so users need no Go toolchain. | Go 1.26 &middot; Bubble Tea &middot; lipgloss |
 | **[sonder](https://github.com/asterxsk/sonder)** | Android app for screen-time friction. One fair hand of blackjack gates the distracting apps you chose. On-device, no accounts, no ads, no analytics. | Flutter &middot; Dart &middot; Kotlin &middot; Accessibility Service |
 
 <sub>Also: [pyrogamma](https://asterxsk.github.io/pyrogamma/) &mdash; a live six-page editorial site built on GitHub Pages. [autoclicker](https://github.com/asterxsk/autoclicker) &mdash; a single-file Python utility, packaged for Windows.</sub>
@@ -115,8 +108,8 @@ Six projects that run. Five are mine; the third I contribute to.
 
 Contributor &mdash; not maintainer &mdash; on two repositories owned by other people:
 
-- [`UdyogSaarthi`](https://github.com/andy1924/UdyogSaarthi) &mdash; 31 commits ([see them](https://github.com/andy1924/UdyogSaarthi/commits?author=asterxsk))
-- [`SENTINEL_AUDIT`](https://github.com/SHARVILBHATTACHARJEE/SENTINEL_AUDIT) &mdash; 4 commits ([see them](https://github.com/SHARVILBHATTACHARJEE/SENTINEL_AUDIT/commits?author=asterxsk))
+- [`UdyogSaarthi`](https://github.com/andy1924/UdyogSaarthi) &mdash; [My commits](https://github.com/andy1924/UdyogSaarthi/commits?author=asterxsk)
+- [`SENTINEL_AUDIT`](https://github.com/SHARVILBHATTACHARJEE/SENTINEL_AUDIT) &mdash; [My commits](https://github.com/SHARVILBHATTACHARJEE/SENTINEL_AUDIT/commits?author=asterxsk)
 
 No internship yet. Everything above was built on my own time.
 
