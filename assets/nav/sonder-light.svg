@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- nav-sonder-light.svg | asterxsk | squared nav button | pairs with hero-light.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="28" viewBox="0 0 102 28" role="img" aria-label="sonder">
+  <rect x="0.5" y="0.5" width="87" height="27" fill="none" stroke="#d0d7de" stroke-width="1" shape-rendering="crispEdges"/>
+  <!-- x is nudged +0.6 because letter-spacing adds a trailing space that text-anchor counts -->
+  <text x="44.6" y="18" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.2" fill="#1f2328">sonder</text>
+</svg>

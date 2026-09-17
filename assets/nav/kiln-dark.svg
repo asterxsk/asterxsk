@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- nav-kiln-dark.svg | asterxsk | squared nav button | pairs with hero-dark.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="28" viewBox="0 0 82 28" role="img" aria-label="kiln">
+  <rect x="0.5" y="0.5" width="67" height="27" fill="none" stroke="#30363d" stroke-width="1" shape-rendering="crispEdges"/>
+  <!-- x is nudged +0.6 because letter-spacing adds a trailing space that text-anchor counts -->
+  <text x="34.6" y="18" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.2" fill="#e6edf3">kiln</text>
+</svg>
