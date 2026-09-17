@@ -1,16 +1,16 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img src="./assets/hero-light.svg" alt="asterxsk. Computer Engineering student in Mumbai. Cooking up agent tooling, CLIs and terminal interfaces." width="100%"></picture></p>
 
 <p align="center">
-Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and terminal interfaces &mdash; then publishing them so other people can actually run them.
-</p>
-
-<p align="center">
   <a href="https://github.com/asterxsk?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/repos-dark.svg"><img src="./assets/nav/repos-light.svg" alt="repos" height="28"></picture></a>
   <a href="https://github.com/asterxsk/kiln"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/kiln-dark.svg"><img src="./assets/nav/kiln-light.svg" alt="kiln" height="28"></picture></a>
   <a href="https://github.com/asterxsk/ternitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/ternitor-dark.svg"><img src="./assets/nav/ternitor-light.svg" alt="ternitor" height="28"></picture></a>
   <a href="https://github.com/asterxsk/clank"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/clank-dark.svg"><img src="./assets/nav/clank-light.svg" alt="clank" height="28"></picture></a>
   <a href="https://github.com/asterxsk/sonder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/sonder-dark.svg"><img src="./assets/nav/sonder-light.svg" alt="sonder" height="28"></picture></a>
   <a href="https://cnodes.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/campusnodes-dark.svg"><img src="./assets/nav/campusnodes-light.svg" alt="campusnodes" height="28"></picture></a>
+</p>
+
+<p align="center">
+Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and terminal interfaces &mdash; then publishing them so other people can actually run them.
 </p>
 
 ---
