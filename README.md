@@ -7,16 +7,11 @@ Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and termi
 <p align="center"><samp>
 <a href="https://github.com/asterxsk?tab=repositories">repos</a> &nbsp;&middot;&nbsp;
 <a href="https://github.com/asterxsk/kiln">kiln</a> &nbsp;&middot;&nbsp;
-<a href="https://github.com/asterxsk/tordln">tordln</a> &nbsp;&middot;&nbsp;
-<a href="https://github.com/asterxsk/croctui">croctui</a> &nbsp;&middot;&nbsp;
+<a href="https://github.com/asterxsk/ternitor">ternitor</a> &nbsp;&middot;&nbsp;
+<a href="https://github.com/asterxsk/clank">clank</a> &nbsp;&middot;&nbsp;
 <a href="https://github.com/asterxsk/sonder">sonder</a> &nbsp;&middot;&nbsp;
 <a href="https://cnodes.vercel.app">campusnodes&nbsp;&#8599;</a>
 </samp></p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/@asterxsk/kiln"><img src="https://img.shields.io/npm/dm/@asterxsk/kiln?style=for-the-badge&label=kiln&color=ff6b1a" alt="kiln monthly npm downloads" height="28"></a>
-  <a href="https://www.npmjs.com/package/@asterxsk/croctui"><img src="https://img.shields.io/npm/dm/@asterxsk/croctui?style=for-the-badge&label=croctui&color=ff6b1a" alt="croctui monthly npm downloads" height="28"></a>
-</p>
 
 ---
 
