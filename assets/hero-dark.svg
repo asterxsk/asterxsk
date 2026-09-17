@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- hero-dark.svg | asterxsk | squared specimen plate | transparent, no background fill -->
+<!-- hero-dark.svg | asterxsk | squared specimen plate | transparent, no background fill or frame -->
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="216" viewBox="0 0 880 216" role="img" aria-labelledby="hd-title hd-desc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
   <title id="hd-title">asterxsk</title>
-  <desc id="hd-desc">asterxsk. Computer Engineering student in Mumbai. Cooking up agent tooling, CLIs and terminal interfaces. Featured projects: kiln in TypeScript, CampusNodes in React, and contributing to UdyogSaarthi.</desc>
-
-  <!-- section: frame | no background fill, the host page supplies it -->
-  <rect x="0.5" y="0.5" width="879" height="215" fill="none" stroke="#30363d" stroke-width="1" shape-rendering="crispEdges"/>
+  <desc id="hd-desc">asterxsk. Computer Engineering student in Mumbai. Cooking up agent tooling, CLIs and terminal interfaces. Featured projects: kiln in TypeScript, zet in Rust, and clank in Python.</desc>
 
   <!-- section: top rail -->
   <text x="32" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.6" fill="#7d8590">COMPUTER ENGINEERING &#183; MUMBAI</text>
@@ -56,11 +53,11 @@
   <text x="608" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3">kiln</text>
   <text x="836" y="110" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7d8590">typescript</text>
   <rect x="596" y="118" width="252" height="1" fill="#21262d" shape-rendering="crispEdges"/>
-  <text x="608" y="138" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3">CampusNodes</text>
-  <text x="836" y="138" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7d8590">react</text>
+  <text x="608" y="138" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3">zet</text>
+  <text x="836" y="138" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7d8590">rust</text>
   <rect x="596" y="146" width="252" height="1" fill="#21262d" shape-rendering="crispEdges"/>
-  <text x="608" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3">UdyogSaarthi</text>
-  <text x="836" y="166" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7d8590">contributor</text>
+  <text x="608" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#e6edf3">clank</text>
+  <text x="836" y="166" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#7d8590">python</text>
 
   <!-- section: bottom rail -->
   <rect x="32" y="188" height="1" width="0" fill="#21262d" shape-rendering="crispEdges">
