@@ -85,36 +85,6 @@ Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and termi
 
 ---
 
-## Shipped
-
-Six projects that run. Five are mine; the third I contribute to.
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[kiln](https://github.com/asterxsk/kiln)** | Versioned config and installer for the `pi` agent, shipped as a CLI. Extensions and opinionated defaults. | TypeScript &middot; Node 22 &middot; npm |
-| **[CampusNodes](https://github.com/asterxsk/CampusNodes)** | Campus resource platform. Live: [cnodes.vercel.app](https://cnodes.vercel.app) | React 19 &middot; Vite &middot; react-three-fiber &middot; GSAP &middot; Supabase |
-| **[UdyogSaarthi](https://github.com/andy1924/UdyogSaarthi)** <br><sub>contributor, not maintainer</sub> | Multilingual, accessibility-first platform that helps rural micro-entrepreneurs assess business feasibility and generate reviewable project reports. I built out the development infrastructure &mdash; Docker Compose dev stack, CI audit job, cross-platform dev scripts. [My commits](https://github.com/andy1924/UdyogSaarthi/commits?author=asterxsk). | TypeScript &middot; Python &middot; Docker |
-| **[tordln](https://github.com/asterxsk/tordln)** | Terminal torrent client. Three-pane TUI, pre-download file selection, live piece map. Needed APIs `librqbit` didn't expose, so I vendored and patched it. | Rust &middot; ratatui &middot; crossterm &middot; tokio |
-| **[croctui](https://github.com/asterxsk/croctui)** | Keyboard-driven TUI over `croc`. Prebuilt binaries for six platforms behind an npm shim, so users need no Go toolchain. | Go 1.26 &middot; Bubble Tea &middot; lipgloss |
-| **[sonder](https://github.com/asterxsk/sonder)** | Android app for screen-time friction. One fair hand of blackjack gates the distracting apps you chose. On-device, no accounts, no ads, no analytics. | Flutter &middot; Dart &middot; Kotlin &middot; Accessibility Service |
-
-<sub>Also: [pyrogamma](https://asterxsk.github.io/pyrogamma/) &mdash; a live six-page editorial site built on GitHub Pages. [autoclicker](https://github.com/asterxsk/autoclicker) &mdash; a single-file Python utility, packaged for Windows.</sub>
-
----
-
-## Experience
-
-**MPSTME, Mumbai** &mdash; B.Tech Computer Engineering, class of 2029.
-
-Contributor &mdash; not maintainer &mdash; on two repositories owned by other people:
-
-- [`UdyogSaarthi`](https://github.com/andy1924/UdyogSaarthi) &mdash; [My commits](https://github.com/andy1924/UdyogSaarthi/commits?author=asterxsk)
-- [`SENTINEL_AUDIT`](https://github.com/SHARVILBHATTACHARJEE/SENTINEL_AUDIT) &mdash; [My commits](https://github.com/SHARVILBHATTACHARJEE/SENTINEL_AUDIT/commits?author=asterxsk)
-
-No internship yet. Everything above was built on my own time.
-
----
-
 ## Stack
 
 The first table is where I've actually shipped code. The second is everything else I'm competent in &mdash; an honest split, because a wall of fifty badges tells you nothing about which of them I've debugged at 2am.
