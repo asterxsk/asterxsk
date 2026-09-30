@@ -4,8 +4,10 @@
   <a href="https://github.com/asterxsk?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/repos-dark.svg"><img src="./assets/nav/repos-light.svg" alt="repos" height="28"></picture></a>
   <a href="https://github.com/asterxsk/kiln"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/kiln-dark.svg"><img src="./assets/nav/kiln-light.svg" alt="kiln" height="28"></picture></a>
   <a href="https://github.com/asterxsk/ternitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/ternitor-dark.svg"><img src="./assets/nav/ternitor-light.svg" alt="ternitor" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/clank"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/clank-dark.svg"><img src="./assets/nav/clank-light.svg" alt="clank" height="28"></picture></a>
+  <a href="https://github.com/asterxsk/ouu-shiit"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/ouu-shiit-dark.svg"><img src="./assets/nav/ouu-shiit-light.svg" alt="ouu-shiit" height="28"></picture></a>
   <a href="https://github.com/asterxsk/sonder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/sonder-dark.svg"><img src="./assets/nav/sonder-light.svg" alt="sonder" height="28"></picture></a>
+  <a href="https://github.com/asterxsk/quick-titles"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/quick-titles-dark.svg"><img src="./assets/nav/quick-titles-light.svg" alt="quick-titles" height="28"></picture></a>
+  <a href="https://github.com/asterxsk/zet"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/zet-dark.svg"><img src="./assets/nav/zet-light.svg" alt="zet" height="28"></picture></a>
   <a href="https://cnodes.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/campusnodes-dark.svg"><img src="./assets/nav/campusnodes-light.svg" alt="campusnodes" height="28"></picture></a>
 </p>
 
