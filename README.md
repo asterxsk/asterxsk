@@ -19,8 +19,10 @@ Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and termi
 
 ## Now
 
-- **Building** &mdash; [`kiln`](https://github.com/asterxsk/kiln), a versioned configuration layer for the `pi` coding agent. Extensions, defaults, keybindings, and one idempotent installer that is safe to re-run.
-- **Deciding** &mdash; whether `sonder`'s access-gate policy belongs behind an interface, so the blackjack hand becomes one implementation among several instead of the only one.
+- **Shipped** &mdash; [`ouu-shiit`](https://github.com/asterxsk/ouu-shiit), a Claude Code skill for adding real-time GPU effects and scroll-driven motion to a site without wrecking it. Seven technologies, one contract, and a map for choosing between them.
+- **Building** &mdash; [`sonder`](https://github.com/asterxsk/sonder). A win now pays debt down before it lets anyone in, the ledger names the app and the hand that was played, and the bank holds the time you've won until you spend it.
+- **Recently** &mdash; [`zet`](https://github.com/asterxsk/zet). Every tab has a close mark, settings moved into a tab of its own, and the window has an ending.
+- **Quiet** &mdash; `kiln` and `quick-titles` are installed and working, but neither has moved since mid-September.
 - **Known broken** &mdash; `arete`, my first large TypeScript codebase, is deprecated and superseded by `kiln`. Its README is still indexed. Ignore it.
 - **Reading** &mdash; BitTorrent piece-selection strategy, because `tordln` needed a patched `librqbit` to expose it.
 
