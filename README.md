@@ -1,40 +1,18 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img src="./assets/hero-light.svg" alt="asterxsk. Computer Engineering student in Mumbai. Agent tooling, CLIs, terminal interfaces, and the veylith skills I use daily." width="100%"></picture></p>
 
 <p align="center">
-  <a href="https://github.com/asterxsk?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/repos-dark.svg"><img src="./assets/nav/repos-light.svg" alt="repos" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/veylith"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/veylith-dark.svg"><img src="./assets/nav/veylith-light.svg" alt="veylith" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/kiln"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/kiln-dark.svg"><img src="./assets/nav/kiln-light.svg" alt="kiln" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/ternitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/ternitor-dark.svg"><img src="./assets/nav/ternitor-light.svg" alt="ternitor" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/sonder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/sonder-dark.svg"><img src="./assets/nav/sonder-light.svg" alt="sonder" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/quick-titles"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/quick-titles-dark.svg"><img src="./assets/nav/quick-titles-light.svg" alt="quick-titles" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/zet"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/zet-dark.svg"><img src="./assets/nav/zet-light.svg" alt="zet" height="28"></picture></a>
-  <a href="https://cnodes.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/campusnodes-dark.svg"><img src="./assets/nav/campusnodes-light.svg" alt="campusnodes" height="28"></picture></a>
-</p>
-
-<p align="center">
-Computer Engineering student in Mumbai. I write agent tooling, CLIs, and terminal interfaces &mdash; and a set of skills I use on every build, published so other people can run them too.
+Computer Engineering student in Mumbai. Agent tooling, CLIs, terminal interfaces, and the skills I build with.
 </p>
 
 ---
 
-## Daily drivers &mdash; [`veylith`](https://github.com/asterxsk/veylith)
+## Skills &mdash; [`veylith`](https://github.com/asterxsk/veylith)
 
-The skills I run on every build. Written as rules rather than tutorials, and nothing installs
-behind your back.
+The set I run on every build. Rules, not tutorials, and nothing installs behind your back.
 
 ```bash
 npx skills add asterxsk/veylith -g -y
 ```
-
----
-
-## Now
-
-- **Building** &mdash; [`sonder`](https://github.com/asterxsk/sonder). A win now pays debt down before it lets anyone in, the ledger names the app and the hand that was played, and the bank holds the time you've won until you spend it.
-- **Recently** &mdash; [`zet`](https://github.com/asterxsk/zet). Every tab has a close mark, settings moved into a tab of its own, and the window has an ending.
-- **Quiet** &mdash; `kiln` and `quick-titles` are installed and working, but neither has moved since mid-September.
-- **Known broken** &mdash; `arete`, my first large TypeScript codebase, is deprecated and superseded by `kiln`. Its README is still indexed. Ignore it.
-- **Reading** &mdash; BitTorrent piece-selection strategy, because `tordln` needed a patched `librqbit` to expose it.
 
 ---
 
@@ -96,30 +74,17 @@ npx skills add asterxsk/veylith -g -y
 
 ## Stack
 
-The first table is where I've actually shipped code. The second is everything else I'm competent in &mdash; an honest split, because a wall of fifty badges tells you nothing about which of them I've debugged at 2am.
-
 | | |
 |:--|:--|
-| **Languages** | TypeScript &middot; JavaScript &middot; Go &middot; Rust &middot; Dart &middot; Python &middot; Kotlin &middot; HTML5 &middot; CSS3 &middot; Bash &middot; PowerShell |
-| **Frontend** | React 19 &middot; Vite &middot; Tailwind &middot; react-three-fiber &middot; GSAP &middot; Framer Motion &middot; Node.js |
-| **Mobile** | Flutter &middot; Android (Kotlin, Accessibility Service, overlays) |
-| **Terminal** | Bubble Tea &middot; lipgloss &middot; ratatui &middot; crossterm &middot; tokio |
-| **Data** | Supabase (Postgres) &middot; SQL &middot; Docker |
-| **Tooling** | Git &middot; GitHub Actions &middot; Vercel &middot; npm &middot; uv |
-| **Agents** | agent skills &middot; `pi` extensions &middot; MCP &middot; prompt and tool design |
-
-### Also in the toolkit &mdash; nothing shipped yet
-
-| | |
-|:--|:--|
-| **Languages** | C &middot; C++ &middot; Objective-C &middot; PHP |
-| **Data & science** | pandas &middot; NumPy &middot; Matplotlib |
-| **Graphics & game** | OpenGL &middot; Unity &middot; Unreal Engine &middot; NVIDIA &middot; AMD |
-| **Databases** | MySQL |
-| **Cloud & infra** | Google Cloud &middot; Apache |
-| **Design** | Figma &middot; Canva &middot; Photoshop &middot; Illustrator &middot; Lightroom &middot; Lightroom Classic &middot; Premiere Pro &middot; After Effects &middot; Acrobat Reader |
-| **Environment** | Windows Terminal &middot; Raspberry Pi &middot; Tampermonkey &middot; Notion &middot; Markdown &middot; LaTeX |
-| **Platforms** | Steam &middot; Epic Games &middot; Xbox &middot; PlayStation Network &middot; Battle.net &middot; Riot Games &middot; Ubisoft &middot; EA &middot; Square Enix &middot; itch.io &middot; Meta |
+| **TypeScript** | kiln &middot; quick-titles &middot; nextframe &middot; CampusNodes |
+| **Rust** | zet &middot; tordln &middot; ternitor |
+| **Kotlin** | sonder |
+| **JavaScript** | croctui &middot; pyrogamma &middot; CampusNodes |
+| **Python** | eruditos &middot; autoclicker |
+| **Go** | croctui |
+| **C** | Dijkstra-Router |
+| **C#** | wwnh |
+| **Markdown** | veylith |
 
 ---
 
