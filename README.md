@@ -4,7 +4,7 @@
   <a href="https://github.com/asterxsk?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/repos-dark.svg"><img src="./assets/nav/repos-light.svg" alt="repos" height="28"></picture></a>
   <a href="https://github.com/asterxsk/kiln"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/kiln-dark.svg"><img src="./assets/nav/kiln-light.svg" alt="kiln" height="28"></picture></a>
   <a href="https://github.com/asterxsk/ternitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/ternitor-dark.svg"><img src="./assets/nav/ternitor-light.svg" alt="ternitor" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/ouu-shiit"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/ouu-shiit-dark.svg"><img src="./assets/nav/ouu-shiit-light.svg" alt="ouu-shiit" height="28"></picture></a>
+  <a href="https://github.com/asterxsk/veylith"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/veylith-dark.svg"><img src="./assets/nav/veylith-light.svg" alt="veylith" height="28"></picture></a>
   <a href="https://github.com/asterxsk/sonder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/sonder-dark.svg"><img src="./assets/nav/sonder-light.svg" alt="sonder" height="28"></picture></a>
   <a href="https://github.com/asterxsk/quick-titles"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/quick-titles-dark.svg"><img src="./assets/nav/quick-titles-light.svg" alt="quick-titles" height="28"></picture></a>
   <a href="https://github.com/asterxsk/zet"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/zet-dark.svg"><img src="./assets/nav/zet-light.svg" alt="zet" height="28"></picture></a>
@@ -19,7 +19,7 @@ Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and termi
 
 ## Now
 
-- **Shipped** &mdash; [`ouu-shiit`](https://github.com/asterxsk/ouu-shiit), a Claude Code skill for adding real-time GPU effects and scroll-driven motion to a site without wrecking it. Seven technologies, one contract, and a map for choosing between them.
+- **Shipped** &mdash; [`veylith`](https://github.com/asterxsk/veylith), a collection of agent skills built around precision, resourcefulness, sound judgment, and extracting the most from every tool. `ouu-shiit` covers real-time GPU effects and scroll-driven motion without wrecking the page; `clean` settles hierarchy, spacing, and type across web, print, decks, and video.
 - **Building** &mdash; [`sonder`](https://github.com/asterxsk/sonder). A win now pays debt down before it lets anyone in, the ledger names the app and the hand that was played, and the bank holds the time you've won until you spend it.
 - **Recently** &mdash; [`zet`](https://github.com/asterxsk/zet). Every tab has a close mark, settings moved into a tab of its own, and the window has an ending.
 - **Quiet** &mdash; `kiln` and `quick-titles` are installed and working, but neither has moved since mid-September.
