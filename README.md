@@ -19,22 +19,12 @@ Computer Engineering student in Mumbai. I write agent tooling, CLIs, and termina
 
 ## Daily drivers &mdash; [`veylith`](https://github.com/asterxsk/veylith)
 
-The skills I run every day, and the closest thing I have to a personal toolkit. Everything I
-build &mdash; sites, interfaces, posters, decks &mdash; goes through these before I call it done.
+The skills I run on every build. Written as rules rather than tutorials, and nothing installs
+behind your back.
 
 ```bash
 npx skills add asterxsk/veylith -g -y
 ```
-
-| Skill | What it does for me |
-|:--|:--|
-| **[`lucent`](https://github.com/asterxsk/veylith/blob/main/skills/lucent/SKILL.md)** | Turns a vague brief into an interface that is legible and built from the least it can be built from. Direction, design system, fundamentals, any effect that earns its place, then the audit. |
-| **[`poise`](https://github.com/asterxsk/veylith/blob/main/skills/poise/SKILL.md)** | The finishing pass. Prunes the generic-looking habits &mdash; repeated dividers, tracked uppercase mono, competing motion &mdash; without flattening the character. |
-
-Both are written as rules rather than tutorials, and neither installs anything behind your back:
-video, charts, and native mobile are named handoffs the agent asks about first, one skill at a
-time. That is the whole point of the repository &mdash; get the most out of what is already
-there, and add nothing that has to be maintained.
 
 ---
 
