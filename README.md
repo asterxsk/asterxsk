@@ -1,10 +1,10 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img src="./assets/hero-light.svg" alt="asterxsk. Computer Engineering student in Mumbai. Cooking up agent tooling, CLIs and terminal interfaces." width="100%"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img src="./assets/hero-light.svg" alt="asterxsk. Computer Engineering student in Mumbai. Agent tooling, CLIs, terminal interfaces, and the veylith skills I use daily." width="100%"></picture></p>
 
 <p align="center">
   <a href="https://github.com/asterxsk?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/repos-dark.svg"><img src="./assets/nav/repos-light.svg" alt="repos" height="28"></picture></a>
+  <a href="https://github.com/asterxsk/veylith"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/veylith-dark.svg"><img src="./assets/nav/veylith-light.svg" alt="veylith" height="28"></picture></a>
   <a href="https://github.com/asterxsk/kiln"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/kiln-dark.svg"><img src="./assets/nav/kiln-light.svg" alt="kiln" height="28"></picture></a>
   <a href="https://github.com/asterxsk/ternitor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/ternitor-dark.svg"><img src="./assets/nav/ternitor-light.svg" alt="ternitor" height="28"></picture></a>
-  <a href="https://github.com/asterxsk/veylith"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/veylith-dark.svg"><img src="./assets/nav/veylith-light.svg" alt="veylith" height="28"></picture></a>
   <a href="https://github.com/asterxsk/sonder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/sonder-dark.svg"><img src="./assets/nav/sonder-light.svg" alt="sonder" height="28"></picture></a>
   <a href="https://github.com/asterxsk/quick-titles"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/quick-titles-dark.svg"><img src="./assets/nav/quick-titles-light.svg" alt="quick-titles" height="28"></picture></a>
   <a href="https://github.com/asterxsk/zet"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav/zet-dark.svg"><img src="./assets/nav/zet-light.svg" alt="zet" height="28"></picture></a>
@@ -12,14 +12,34 @@
 </p>
 
 <p align="center">
-Computer Engineering student in Mumbai, cooking up agent tooling, CLIs and terminal interfaces &mdash; then publishing them so other people can actually run them.
+Computer Engineering student in Mumbai. I write agent tooling, CLIs, and terminal interfaces &mdash; and a set of skills I use on every build, published so other people can run them too.
 </p>
+
+---
+
+## Daily drivers &mdash; [`veylith`](https://github.com/asterxsk/veylith)
+
+The skills I run every day, and the closest thing I have to a personal toolkit. Everything I
+build &mdash; sites, interfaces, posters, decks &mdash; goes through these before I call it done.
+
+```bash
+npx skills add asterxsk/veylith -g -y
+```
+
+| Skill | What it does for me |
+|:--|:--|
+| **[`lucent`](https://github.com/asterxsk/veylith/blob/main/skills/lucent/SKILL.md)** | Turns a vague brief into an interface that is legible and built from the least it can be built from. Direction, design system, fundamentals, any effect that earns its place, then the audit. |
+| **[`poise`](https://github.com/asterxsk/veylith/blob/main/skills/poise/SKILL.md)** | The finishing pass. Prunes the generic-looking habits &mdash; repeated dividers, tracked uppercase mono, competing motion &mdash; without flattening the character. |
+
+Both are written as rules rather than tutorials, and neither installs anything behind your back:
+video, charts, and native mobile are named handoffs the agent asks about first, one skill at a
+time. That is the whole point of the repository &mdash; get the most out of what is already
+there, and add nothing that has to be maintained.
 
 ---
 
 ## Now
 
-- **Shipped** &mdash; [`veylith`](https://github.com/asterxsk/veylith), a collection of agent skills built around precision, resourcefulness, sound judgment, and extracting the most from every tool. `ouu-shiit` covers real-time GPU effects and scroll-driven motion without wrecking the page; `clean` settles hierarchy, spacing, and type across web, print, decks, and video.
 - **Building** &mdash; [`sonder`](https://github.com/asterxsk/sonder). A win now pays debt down before it lets anyone in, the ledger names the app and the hand that was played, and the bank holds the time you've won until you spend it.
 - **Recently** &mdash; [`zet`](https://github.com/asterxsk/zet). Every tab has a close mark, settings moved into a tab of its own, and the window has an ending.
 - **Quiet** &mdash; `kiln` and `quick-titles` are installed and working, but neither has moved since mid-September.
@@ -96,7 +116,7 @@ The first table is where I've actually shipped code. The second is everything el
 | **Terminal** | Bubble Tea &middot; lipgloss &middot; ratatui &middot; crossterm &middot; tokio |
 | **Data** | Supabase (Postgres) &middot; SQL &middot; Docker |
 | **Tooling** | Git &middot; GitHub Actions &middot; Vercel &middot; npm &middot; uv |
-| **Agents** | `pi` extensions &middot; MCP &middot; prompt and tool design |
+| **Agents** | agent skills &middot; `pi` extensions &middot; MCP &middot; prompt and tool design |
 
 ### Also in the toolkit &mdash; nothing shipped yet
 
